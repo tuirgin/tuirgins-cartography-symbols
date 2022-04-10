@@ -1,0 +1,12 @@
+{
+  "name": "tuirgins-cartography-symbols",
+  "title": "Tuirgin’s Cartography Symbols",
+  "description": "An art package token assets.",
+  "version": "1.0.0",
+  "author": ["Tuirgin"],
+  "minimumCoreVersion": "0",
+  "compatibleCoreVersion": "9",
+  "url": "https://github.com/tuirgin/tuirgins-cartography-symbols",
+  "manifest": "https://github.com/tuirgin/tuirgins-cartography-symbols/releases/latest/download/module.json",
+  "download": "https://github.com/tuirgin/tuirgins-cartography-symbols/releases/download/v1.0.0/module.zip"
+}
